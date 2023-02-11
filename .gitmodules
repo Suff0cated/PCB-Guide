@@ -4,3 +4,6 @@
 [submodule "MX_Alps_Hybrid"]
 	path = MX_Alps_Hybrid
 	url = https://github.com/ai03-2725/MX_Alps_Hybrid.git
+[submodule "kicad-ATmega32U4"]
+	path = kicad-ATmega32U4
+	url = https://github.com/yskoht/kicad-ATmega32U4.git
